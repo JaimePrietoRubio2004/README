@@ -1,5 +1,5 @@
 # ¡Hola! Soy JAIME PRIETO RUBIO 👋 
-### Full Stack Developer | Especialista en Java & Experto en Automatización con MAKE.com
+### Full Stack Developer | Especialista en Java & Automatización con MAKE.com
 
 Transformo problemas complejos en soluciones digitales eficientes. Mi enfoque combina la robustez del desarrollo backend en **Java** con la agilidad de la **Inteligencia Artificial** y la **Automatización avanzada**.
 
