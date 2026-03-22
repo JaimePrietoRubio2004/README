@@ -5,7 +5,7 @@ Transformo problemas complejos en soluciones digitales eficientes. Mi enfoque co
 
 ---
 
-## 🇪🇸 Perfil Profesional
+## Perfil Profesional
 
 ### 🚀 ¿Cómo puedo aportar valor a tu proyecto?
 Ayudo a empresas y clientes particulares a escalar sus operaciones mediante:
@@ -29,7 +29,7 @@ Ayudo a empresas y clientes particulares a escalar sus operaciones mediante:
 
 ---
 
-## 🇺🇸 Professional Profile (English)
+## Professional Profile
 
 ### 🚀 How can I add value to your project?
 I help companies and private clients scale their operations through:
